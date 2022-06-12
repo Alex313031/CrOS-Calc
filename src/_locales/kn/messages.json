@@ -1,0 +1,307 @@
+{
+   "Calc_ActionLabel_ac": {
+      "description": "Calculator all clear (calculator button label) (text label)",
+      "message": "AC"
+   },
+   "Calc_ActionLabel_acos": {
+      "description": "Calculator short form for mathematical function: \"inverse-cosine\" (text label)",
+      "message": "ಅಕೋಸ್‌"
+   },
+   "Calc_ActionLabel_asin": {
+      "description": "Calculator short form for mathematical function: \"inverse-sine\" (text label)",
+      "message": "ಅಸೈನ್‌"
+   },
+   "Calc_ActionLabel_atan": {
+      "description": "Calculator short form for mathematical function: \"inverse-tangent\" (text label)",
+      "message": "ಅಟ್ಯಾನ್‌"
+   },
+   "Calc_ActionLabel_backspace": {
+      "description": "Calculator delete one input character (text label)",
+      "message": "⌫"
+   },
+   "Calc_ActionLabel_c": {
+      "description": "Calculator short form for mathematical function: \"combinations (n combine r))\" (text label)",
+      "message": "nCr"
+   },
+   "Calc_ActionLabel_cos": {
+      "description": "Calculator short form for mathematical function: \"cosine\" (text label)",
+      "message": "ಕೊಸ್‌"
+   },
+   "Calc_ActionLabel_deg": {
+      "description": "Calculator short form for \"degrees\" calculator mode (text label)",
+      "message": "ಡಿಗ್ರಿ"
+   },
+   "Calc_ActionLabel_div": {
+      "description": "Calculator short form for mathematical function: \"divide\" (text label)",
+      "message": "÷"
+   },
+   "Calc_ActionLabel_e": {
+      "description": "Calculator mathematical constant, e (text label)",
+      "message": "e"
+   },
+   "Calc_ActionLabel_equals": {
+      "description": "Calculator compute operation and display result (text label)",
+      "message": "="
+   },
+   "Calc_ActionLabel_exp": {
+      "description": "Calculator short form for mathematical function: \"exp\" (text label)",
+      "message": "eⁿ"
+   },
+   "Calc_ActionLabel_fact": {
+      "description": "Calculator short form for mathematical function: \"factorial\" (text label)",
+      "message": "x!"
+   },
+   "Calc_ActionLabel_fetch": {
+      "description": "Calculator load memorized number (text label)",
+      "message": "a"
+   },
+   "Calc_ActionLabel_inv": {
+      "description": "Calculator short form for mathematical function: \"inv\" (text label)",
+      "message": "1/x"
+   },
+   "Calc_ActionLabel_ln": {
+      "description": "Calculator short form for mathematical function: \"natural logarithm\" (text label)",
+      "message": "ln"
+   },
+   "Calc_ActionLabel_log": {
+      "description": "Calculator short form for mathematical function: \"logarithm\" (text label)",
+      "message": "ಲಾಗ್‌"
+   },
+   "Calc_ActionLabel_minus": {
+      "description": "Calculator short form for mathematical function: \"minus\" (text label)",
+      "message": "–"
+   },
+   "Calc_ActionLabel_mod": {
+      "description": "Calculator short form for mathematical function: \"modulo\" (text label)",
+      "message": "ಮೊಡ್‌"
+   },
+   "Calc_ActionLabel_mult": {
+      "description": "Calculator short form for mathematical function: \"multiply\" (text label)",
+      "message": "×"
+   },
+   "Calc_ActionLabel_p": {
+      "description": "Calculator short form for mathematical function: \"permutations (n permute r)\" (text label)",
+      "message": "nPr"
+   },
+   "Calc_ActionLabel_percent": {
+      "description": "Calculator convert number to percentage (text label)",
+      "message": "%"
+   },
+   "Calc_ActionLabel_pi": {
+      "description": "Calculator mathematical constant, pi (text label)",
+      "message": "π"
+   },
+   "Calc_ActionLabel_plus": {
+      "description": "Calculator short form for mathematical function: \"plus\" (text label)",
+      "message": "+"
+   },
+   "Calc_ActionLabel_point": {
+      "description": "Calculator decimal point (text label)",
+      "message": "ಬಿಂದು"
+   },
+   "Calc_ActionLabel_pow": {
+      "description": "Calculator binary operator: pow (text label)",
+      "message": "yⁿ"
+   },
+   "Calc_ActionLabel_rad": {
+      "description": "Calculator short form for \"radians\" calculator mode (text label)",
+      "message": "ರೇಡ್‌"
+   },
+   "Calc_ActionLabel_rand": {
+      "description": "Calculator generate random number (text label)",
+      "message": "ರ‌್ಯಾಂಡ್"
+   },
+   "Calc_ActionLabel_root": {
+      "description": "Calculator binary operator: root (text label)",
+      "message": "ⁿ √Y"
+   },
+   "Calc_ActionLabel_round": {
+      "description": "Calculator short form for mathematical function: \"round\" (text label)",
+      "message": "rnd"
+   },
+   "Calc_ActionLabel_sign": {
+      "description": "Calculator switch positive/negative sign of number (text label)",
+      "message": "+/-"
+   },
+   "Calc_ActionLabel_sin": {
+      "description": "Calculator short form for mathematical function: \"sine\" (text label)",
+      "message": "ಸೈನ್‌"
+   },
+   "Calc_ActionLabel_sqroot": {
+      "description": "Calculator short form for mathematical function: \"square root\" (text label)",
+      "message": "√"
+   },
+   "Calc_ActionLabel_square": {
+      "description": "Calculator short form for mathematical function: \"x squared\" (text label)",
+      "message": "x²"
+   },
+   "Calc_ActionLabel_store": {
+      "description": "Calculator short form for mathematical function: \"store in memory\" (text label)",
+      "message": "a="
+   },
+   "Calc_ActionLabel_tan": {
+      "description": "Calculator short form for mathematical function: \"tangent\" (text label)",
+      "message": "ಟ್ಯಾನ್‌"
+   },
+   "Calc_ActionSpeechLabel_ac": {
+      "description": "Calculator all clear (calculator button label) (speech label)",
+      "message": "ಎಲ್ಲ ತೆರವುಗೊಳಿಸು"
+   },
+   "Calc_ActionSpeechLabel_acos": {
+      "description": "Calculator short form for mathematical function: \"inverse-cosine\" (speech label)",
+      "message": "ಅರ್ಕೊಸಿನ್"
+   },
+   "Calc_ActionSpeechLabel_asin": {
+      "description": "Calculator short form for mathematical function: \"inverse-sine\" (speech label)",
+      "message": "ಆರ್ಕ್ಸೈನ್"
+   },
+   "Calc_ActionSpeechLabel_atan": {
+      "description": "Calculator short form for mathematical function: \"inverse-tangent\" (speech label)",
+      "message": "ಆರ್ಕ್‌ಟ್ಯಾಂಜೆಂಟ್"
+   },
+   "Calc_ActionSpeechLabel_backspace": {
+      "description": "Calculator delete one input character (speech label)",
+      "message": "ಬ್ಯಾಕ್‌ಸ್ಪೇಸ್"
+   },
+   "Calc_ActionSpeechLabel_c": {
+      "description": "Calculator short form for mathematical function: \"combinations (n combine r))\" (speech label)",
+      "message": "ಕಾಂಬಿನೇಶನ್‌"
+   },
+   "Calc_ActionSpeechLabel_cos": {
+      "description": "Calculator short form for mathematical function: \"cosine\" (speech label)",
+      "message": "ಕೊಸೈನ್"
+   },
+   "Calc_ActionSpeechLabel_deg": {
+      "description": "Calculator short form for \"degrees\" calculator mode (speech label)",
+      "message": "ಡಿಗ್ರಿಗಳಿಗೆ ಬದಲಾಯಿಸು"
+   },
+   "Calc_ActionSpeechLabel_div": {
+      "description": "Calculator short form for mathematical function: \"divide\" (speech label)",
+      "message": "ವಿಭಾಗಿಸು"
+   },
+   "Calc_ActionSpeechLabel_e": {
+      "description": "Calculator mathematical constant, e (speech label)",
+      "message": "e"
+   },
+   "Calc_ActionSpeechLabel_equals": {
+      "description": "Calculator compute operation and display result (speech label)",
+      "message": "ಸಮಾನ ಚಿಹ್ನೆ"
+   },
+   "Calc_ActionSpeechLabel_exp": {
+      "description": "Calculator short form for mathematical function: \"exp\" (speech label)",
+      "message": "e ಯ ಘಾತ n"
+   },
+   "Calc_ActionSpeechLabel_fact": {
+      "description": "Calculator short form for mathematical function: \"factorial\" (speech label)",
+      "message": "ಅಪವರ್ತನೀಯ"
+   },
+   "Calc_ActionSpeechLabel_fetch": {
+      "description": "Calculator load memorized number (speech label)",
+      "message": "ಮೆಮೊರಿಯಿಂದ ಪಡೆಯಿರಿ"
+   },
+   "Calc_ActionSpeechLabel_inv": {
+      "description": "Calculator short form for mathematical function: \"inv\" (speech label)",
+      "message": "ವಿಲೋಮ"
+   },
+   "Calc_ActionSpeechLabel_ln": {
+      "description": "Calculator short form for mathematical function: \"natural logarithm\" (speech label)",
+      "message": "ನ್ಯಾಚುರಲ್‌ ಲಾಗರಿಥಮ್‌‌"
+   },
+   "Calc_ActionSpeechLabel_log": {
+      "description": "Calculator short form for mathematical function: \"logarithm\" (speech label)",
+      "message": "ಲಾಗ್ ಮೂಲ 10"
+   },
+   "Calc_ActionSpeechLabel_minus": {
+      "description": "Calculator short form for mathematical function: \"minus\" (speech label)",
+      "message": "ಕಳೆ"
+   },
+   "Calc_ActionSpeechLabel_mod": {
+      "description": "Calculator short form for mathematical function: \"modulo\" (speech label)",
+      "message": "ಮಾಡ್ಯುಲೊ"
+   },
+   "Calc_ActionSpeechLabel_mult": {
+      "description": "Calculator short form for mathematical function: \"multiply\" (speech label)",
+      "message": "ಗುಣಿಸು"
+   },
+   "Calc_ActionSpeechLabel_p": {
+      "description": "Calculator short form for mathematical function: \"permutations (n permute r)\" (speech label)",
+      "message": "ಪರ್ಮ್ಯುಟೇಶನ್‌"
+   },
+   "Calc_ActionSpeechLabel_percent": {
+      "description": "Calculator convert number to percentage (speech label)",
+      "message": "ಶೇಕಡಾ"
+   },
+   "Calc_ActionSpeechLabel_pi": {
+      "description": "Calculator mathematical constant, pi (speech label)",
+      "message": "π"
+   },
+   "Calc_ActionSpeechLabel_plus": {
+      "description": "Calculator short form for mathematical function: \"plus\" (speech label)",
+      "message": "ಪ್ಲಸ್"
+   },
+   "Calc_ActionSpeechLabel_point": {
+      "description": "Calculator decimal point (speech label)",
+      "message": "ಬಿಂದು"
+   },
+   "Calc_ActionSpeechLabel_pow": {
+      "description": "Calculator binary operator: pow (speech label)",
+      "message": "y ನ ಘಾತ n"
+   },
+   "Calc_ActionSpeechLabel_rad": {
+      "description": "Calculator short form for \"radians\" calculator mode (speech label)",
+      "message": "ರೇಡಿಯನ್ಸ್‌ಗೆ ಬದಲಾಯಿಸು"
+   },
+   "Calc_ActionSpeechLabel_rand": {
+      "description": "Calculator generate random number (speech label)",
+      "message": "ರ‌್ಯಾಂಡಮ್"
+   },
+   "Calc_ActionSpeechLabel_root": {
+      "description": "Calculator binary operator: root (speech label)",
+      "message": "y ನ ಎನ್ತ್ ರೂಟ್"
+   },
+   "Calc_ActionSpeechLabel_round": {
+      "description": "Calculator short form for mathematical function: \"round\" (speech label)",
+      "message": "ಸುತ್ತು"
+   },
+   "Calc_ActionSpeechLabel_sign": {
+      "description": "Calculator switch positive/negative sign of number (speech label)",
+      "message": "ನೆಗೆಟ್"
+   },
+   "Calc_ActionSpeechLabel_sin": {
+      "description": "Calculator short form for mathematical function: \"sine\" (speech label)",
+      "message": "ಸೈನ್"
+   },
+   "Calc_ActionSpeechLabel_sqroot": {
+      "description": "Calculator short form for mathematical function: \"square root\" (speech label)",
+      "message": "ವರ್ಗಮೂಲ"
+   },
+   "Calc_ActionSpeechLabel_square": {
+      "description": "Calculator short form for mathematical function: \"x squared\" (speech label)",
+      "message": "x ಸ್ಕೇರ್ಡ್"
+   },
+   "Calc_ActionSpeechLabel_store": {
+      "description": "Calculator short form for mathematical function: \"store in memory\" (speech label)",
+      "message": "ಮೆಮೊರಿಯಲ್ಲಿ ಸಂಗ್ರಹಿಸು"
+   },
+   "Calc_ActionSpeechLabel_tan": {
+      "description": "Calculator short form for mathematical function: \"tangent\" (speech label)",
+      "message": "ಟ್ಯಾಂಜೆಂಟ್"
+   },
+   "Calc_Message_CalcDisplay": {
+      "message": "ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಡಿಸ್‌ಪ್ಲೇ"
+   },
+   "Calc_Message_CalcHistory": {
+      "message": "ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಇತಿಹಾಸ"
+   },
+   "Calc_Message_CalcKeypad": {
+      "message": "ಕೀಪ್ಯಾಡ್‌"
+   },
+   "Calc_Message_CalcName": {
+      "description": "Calculator name of application for performing simple calculations",
+      "message": "ಕ್ಯಾಲ್ಕುಲೇಟರ್"
+   },
+   "NumberFormatter_Message_NaN": {
+      "description": "NumberFormatter description of a value that isn't a number",
+      "message": "ಸಂಖ್ಯೆಯಲ್ಲ"
+   }
+}

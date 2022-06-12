@@ -1,0 +1,307 @@
+{
+   "Calc_ActionLabel_ac": {
+      "description": "Calculator all clear (calculator button label) (text label)",
+      "message": "AC"
+   },
+   "Calc_ActionLabel_acos": {
+      "description": "Calculator short form for mathematical function: \"inverse-cosine\" (text label)",
+      "message": "acos"
+   },
+   "Calc_ActionLabel_asin": {
+      "description": "Calculator short form for mathematical function: \"inverse-sine\" (text label)",
+      "message": "asin"
+   },
+   "Calc_ActionLabel_atan": {
+      "description": "Calculator short form for mathematical function: \"inverse-tangent\" (text label)",
+      "message": "atan"
+   },
+   "Calc_ActionLabel_backspace": {
+      "description": "Calculator delete one input character (text label)",
+      "message": "⌫"
+   },
+   "Calc_ActionLabel_c": {
+      "description": "Calculator short form for mathematical function: \"combinations (n combine r))\" (text label)",
+      "message": "nCr"
+   },
+   "Calc_ActionLabel_cos": {
+      "description": "Calculator short form for mathematical function: \"cosine\" (text label)",
+      "message": "cos"
+   },
+   "Calc_ActionLabel_deg": {
+      "description": "Calculator short form for \"degrees\" calculator mode (text label)",
+      "message": "Deg"
+   },
+   "Calc_ActionLabel_div": {
+      "description": "Calculator short form for mathematical function: \"divide\" (text label)",
+      "message": "÷"
+   },
+   "Calc_ActionLabel_e": {
+      "description": "Calculator mathematical constant, e (text label)",
+      "message": "e"
+   },
+   "Calc_ActionLabel_equals": {
+      "description": "Calculator compute operation and display result (text label)",
+      "message": "="
+   },
+   "Calc_ActionLabel_exp": {
+      "description": "Calculator short form for mathematical function: \"exp\" (text label)",
+      "message": "eⁿ"
+   },
+   "Calc_ActionLabel_fact": {
+      "description": "Calculator short form for mathematical function: \"factorial\" (text label)",
+      "message": "x!"
+   },
+   "Calc_ActionLabel_fetch": {
+      "description": "Calculator load memorized number (text label)",
+      "message": "a"
+   },
+   "Calc_ActionLabel_inv": {
+      "description": "Calculator short form for mathematical function: \"inv\" (text label)",
+      "message": "1/x"
+   },
+   "Calc_ActionLabel_ln": {
+      "description": "Calculator short form for mathematical function: \"natural logarithm\" (text label)",
+      "message": "ln"
+   },
+   "Calc_ActionLabel_log": {
+      "description": "Calculator short form for mathematical function: \"logarithm\" (text label)",
+      "message": "λογάριθμος"
+   },
+   "Calc_ActionLabel_minus": {
+      "description": "Calculator short form for mathematical function: \"minus\" (text label)",
+      "message": "–"
+   },
+   "Calc_ActionLabel_mod": {
+      "description": "Calculator short form for mathematical function: \"modulo\" (text label)",
+      "message": "mod"
+   },
+   "Calc_ActionLabel_mult": {
+      "description": "Calculator short form for mathematical function: \"multiply\" (text label)",
+      "message": "×"
+   },
+   "Calc_ActionLabel_p": {
+      "description": "Calculator short form for mathematical function: \"permutations (n permute r)\" (text label)",
+      "message": "nPr"
+   },
+   "Calc_ActionLabel_percent": {
+      "description": "Calculator convert number to percentage (text label)",
+      "message": "%"
+   },
+   "Calc_ActionLabel_pi": {
+      "description": "Calculator mathematical constant, pi (text label)",
+      "message": "π"
+   },
+   "Calc_ActionLabel_plus": {
+      "description": "Calculator short form for mathematical function: \"plus\" (text label)",
+      "message": "+"
+   },
+   "Calc_ActionLabel_point": {
+      "description": "Calculator decimal point (text label)",
+      "message": "Ψηφίο"
+   },
+   "Calc_ActionLabel_pow": {
+      "description": "Calculator binary operator: pow (text label)",
+      "message": "yⁿ"
+   },
+   "Calc_ActionLabel_rad": {
+      "description": "Calculator short form for \"radians\" calculator mode (text label)",
+      "message": "Rad"
+   },
+   "Calc_ActionLabel_rand": {
+      "description": "Calculator generate random number (text label)",
+      "message": "τυχ"
+   },
+   "Calc_ActionLabel_root": {
+      "description": "Calculator binary operator: root (text label)",
+      "message": "ⁿ √Y"
+   },
+   "Calc_ActionLabel_round": {
+      "description": "Calculator short form for mathematical function: \"round\" (text label)",
+      "message": "rnd"
+   },
+   "Calc_ActionLabel_sign": {
+      "description": "Calculator switch positive/negative sign of number (text label)",
+      "message": "+/-"
+   },
+   "Calc_ActionLabel_sin": {
+      "description": "Calculator short form for mathematical function: \"sine\" (text label)",
+      "message": "sin"
+   },
+   "Calc_ActionLabel_sqroot": {
+      "description": "Calculator short form for mathematical function: \"square root\" (text label)",
+      "message": "√"
+   },
+   "Calc_ActionLabel_square": {
+      "description": "Calculator short form for mathematical function: \"x squared\" (text label)",
+      "message": "x²"
+   },
+   "Calc_ActionLabel_store": {
+      "description": "Calculator short form for mathematical function: \"store in memory\" (text label)",
+      "message": "a="
+   },
+   "Calc_ActionLabel_tan": {
+      "description": "Calculator short form for mathematical function: \"tangent\" (text label)",
+      "message": "tan"
+   },
+   "Calc_ActionSpeechLabel_ac": {
+      "description": "Calculator all clear (calculator button label) (speech label)",
+      "message": "διαγραφή όλων"
+   },
+   "Calc_ActionSpeechLabel_acos": {
+      "description": "Calculator short form for mathematical function: \"inverse-cosine\" (speech label)",
+      "message": "τόξο συνημιτόνου"
+   },
+   "Calc_ActionSpeechLabel_asin": {
+      "description": "Calculator short form for mathematical function: \"inverse-sine\" (speech label)",
+      "message": "τόξο ημιτόνου"
+   },
+   "Calc_ActionSpeechLabel_atan": {
+      "description": "Calculator short form for mathematical function: \"inverse-tangent\" (speech label)",
+      "message": "τόξο εφαπτομένης"
+   },
+   "Calc_ActionSpeechLabel_backspace": {
+      "description": "Calculator delete one input character (speech label)",
+      "message": "backspace"
+   },
+   "Calc_ActionSpeechLabel_c": {
+      "description": "Calculator short form for mathematical function: \"combinations (n combine r))\" (speech label)",
+      "message": "συνδυασμός"
+   },
+   "Calc_ActionSpeechLabel_cos": {
+      "description": "Calculator short form for mathematical function: \"cosine\" (speech label)",
+      "message": "συνημίτονο"
+   },
+   "Calc_ActionSpeechLabel_deg": {
+      "description": "Calculator short form for \"degrees\" calculator mode (speech label)",
+      "message": "εναλλαγή σε μοίρες"
+   },
+   "Calc_ActionSpeechLabel_div": {
+      "description": "Calculator short form for mathematical function: \"divide\" (speech label)",
+      "message": "διαίρεση"
+   },
+   "Calc_ActionSpeechLabel_e": {
+      "description": "Calculator mathematical constant, e (speech label)",
+      "message": "e"
+   },
+   "Calc_ActionSpeechLabel_equals": {
+      "description": "Calculator compute operation and display result (speech label)",
+      "message": "ισούται"
+   },
+   "Calc_ActionSpeechLabel_exp": {
+      "description": "Calculator short form for mathematical function: \"exp\" (speech label)",
+      "message": "e στη δύναμη του n"
+   },
+   "Calc_ActionSpeechLabel_fact": {
+      "description": "Calculator short form for mathematical function: \"factorial\" (speech label)",
+      "message": "παραγοντικό"
+   },
+   "Calc_ActionSpeechLabel_fetch": {
+      "description": "Calculator load memorized number (speech label)",
+      "message": "ανάκτηση από τη μνήμη"
+   },
+   "Calc_ActionSpeechLabel_inv": {
+      "description": "Calculator short form for mathematical function: \"inv\" (speech label)",
+      "message": "αντίστροφος"
+   },
+   "Calc_ActionSpeechLabel_ln": {
+      "description": "Calculator short form for mathematical function: \"natural logarithm\" (speech label)",
+      "message": "φυσικός λογάριθμος"
+   },
+   "Calc_ActionSpeechLabel_log": {
+      "description": "Calculator short form for mathematical function: \"logarithm\" (speech label)",
+      "message": "λογαριθμική βάση του 10"
+   },
+   "Calc_ActionSpeechLabel_minus": {
+      "description": "Calculator short form for mathematical function: \"minus\" (speech label)",
+      "message": "πλην"
+   },
+   "Calc_ActionSpeechLabel_mod": {
+      "description": "Calculator short form for mathematical function: \"modulo\" (speech label)",
+      "message": "συντελεστής"
+   },
+   "Calc_ActionSpeechLabel_mult": {
+      "description": "Calculator short form for mathematical function: \"multiply\" (speech label)",
+      "message": "πολλαπλασιασμός"
+   },
+   "Calc_ActionSpeechLabel_p": {
+      "description": "Calculator short form for mathematical function: \"permutations (n permute r)\" (speech label)",
+      "message": "μετάθεση"
+   },
+   "Calc_ActionSpeechLabel_percent": {
+      "description": "Calculator convert number to percentage (speech label)",
+      "message": "ποσοστό"
+   },
+   "Calc_ActionSpeechLabel_pi": {
+      "description": "Calculator mathematical constant, pi (speech label)",
+      "message": "π"
+   },
+   "Calc_ActionSpeechLabel_plus": {
+      "description": "Calculator short form for mathematical function: \"plus\" (speech label)",
+      "message": "συν"
+   },
+   "Calc_ActionSpeechLabel_point": {
+      "description": "Calculator decimal point (speech label)",
+      "message": "ψηφίο"
+   },
+   "Calc_ActionSpeechLabel_pow": {
+      "description": "Calculator binary operator: pow (speech label)",
+      "message": "y στη δύναμη του n"
+   },
+   "Calc_ActionSpeechLabel_rad": {
+      "description": "Calculator short form for \"radians\" calculator mode (speech label)",
+      "message": "εναλλαγή σε ακτίνια"
+   },
+   "Calc_ActionSpeechLabel_rand": {
+      "description": "Calculator generate random number (speech label)",
+      "message": "τυχαίος"
+   },
+   "Calc_ActionSpeechLabel_root": {
+      "description": "Calculator binary operator: root (speech label)",
+      "message": "n-η ρίζα του y"
+   },
+   "Calc_ActionSpeechLabel_round": {
+      "description": "Calculator short form for mathematical function: \"round\" (speech label)",
+      "message": "στρογγυλοποίηση"
+   },
+   "Calc_ActionSpeechLabel_sign": {
+      "description": "Calculator switch positive/negative sign of number (speech label)",
+      "message": "αρνητικό"
+   },
+   "Calc_ActionSpeechLabel_sin": {
+      "description": "Calculator short form for mathematical function: \"sine\" (speech label)",
+      "message": "ημίτονο"
+   },
+   "Calc_ActionSpeechLabel_sqroot": {
+      "description": "Calculator short form for mathematical function: \"square root\" (speech label)",
+      "message": "τετραγωνική ρίζα"
+   },
+   "Calc_ActionSpeechLabel_square": {
+      "description": "Calculator short form for mathematical function: \"x squared\" (speech label)",
+      "message": "x στο τετράγωνο"
+   },
+   "Calc_ActionSpeechLabel_store": {
+      "description": "Calculator short form for mathematical function: \"store in memory\" (speech label)",
+      "message": "αποθήκευση στη μνήμη"
+   },
+   "Calc_ActionSpeechLabel_tan": {
+      "description": "Calculator short form for mathematical function: \"tangent\" (speech label)",
+      "message": "εφαπτόμενη"
+   },
+   "Calc_Message_CalcDisplay": {
+      "message": "Οθόνη Αριθμομηχανής"
+   },
+   "Calc_Message_CalcHistory": {
+      "message": "Ιστορικό Αριθμομηχανής"
+   },
+   "Calc_Message_CalcKeypad": {
+      "message": "Πληκτρολόγιο"
+   },
+   "Calc_Message_CalcName": {
+      "description": "Calculator name of application for performing simple calculations",
+      "message": "Αριθμομηχανή"
+   },
+   "NumberFormatter_Message_NaN": {
+      "description": "NumberFormatter description of a value that isn't a number",
+      "message": "Όχι αριθμός"
+   }
+}

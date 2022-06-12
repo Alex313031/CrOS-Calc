@@ -1,0 +1,354 @@
+{
+   "Calc_ActionLabel_ac": {
+      "description": "Calculator all clear (calculator button label) (text label)",
+      "message": "AC"
+   },
+   "Calc_ActionLabel_acos": {
+      "description": "Calculator short form for mathematical function: \"acos\" (text label)",
+      "message": "acos"
+   },
+   "Calc_ActionLabel_asin": {
+      "description": "Calculator short form for mathematical function: \"asin\" (text label)",
+      "message": "asin"
+   },
+   "Calc_ActionLabel_atan": {
+      "description": "Calculator short form for mathematical function: \"atan\" (text label)",
+      "message": "atan"
+   },
+   "Calc_ActionLabel_backspace": {
+      "description": "Calculator delete one input character (text label)",
+      "message": "⌫"
+   },
+   "Calc_ActionLabel_c": {
+      "description": "Calculator short form for mathematical function: \"c\" (text label)",
+      "message": "nCr"
+   },
+   "Calc_ActionLabel_cos": {
+      "description": "Calculator short form for mathematical function: \"cos\" (text label)",
+      "message": "cos"
+   },
+   "Calc_ActionLabel_deg": {
+      "description": "Calculator short form for \"degrees\" calculator mode (text label)",
+      "message": "Deg"
+   },
+   "Calc_ActionLabel_div": {
+      "description": "Calculator short form for mathematical function: \"div\" (text label)",
+      "message": "÷"
+   },
+   "Calc_ActionLabel_e": {
+      "description": "Calculator mathematical constant, e (text label)",
+      "message": "e"
+   },
+   "Calc_ActionLabel_equals": {
+      "description": "Calculator compute operation and display result (text label)",
+      "message": "="
+   },
+   "Calc_ActionLabel_exp": {
+      "description": "Calculator short form for mathematical function: \"exp\" (text label)",
+      "message": "eⁿ"
+   },
+   "Calc_ActionLabel_fact": {
+      "description": "Calculator short form for mathematical function: \"fact\" (text label)",
+      "message": "x!"
+   },
+   "Calc_ActionLabel_fetch": {
+      "description": "Calculator load memorized number (text label)",
+      "message": "a"
+   },
+   "Calc_ActionLabel_inv": {
+      "description": "Calculator short form for mathematical function: \"inv\" (text label)",
+      "message": "1/x"
+   },
+   "Calc_ActionLabel_ln": {
+      "description": "Calculator short form for mathematical function: \"ln\" (text label)",
+      "message": "ln"
+   },
+   "Calc_ActionLabel_log": {
+      "description": "Calculator short form for mathematical function: \"log\" (text label)",
+      "message": "log"
+   },
+   "Calc_ActionLabel_minus": {
+      "description": "Calculator short form for mathematical function: \"minus\" (text label)",
+      "message": "–"
+   },
+   "Calc_ActionLabel_mod": {
+      "description": "Calculator short form for mathematical function: \"mod\" (text label)",
+      "message": "mod"
+   },
+   "Calc_ActionLabel_mult": {
+      "description": "Calculator short form for mathematical function: \"mult\" (text label)",
+      "message": "×"
+   },
+   "Calc_ActionLabel_p": {
+      "description": "Calculator short form for mathematical function: \"p\" (text label)",
+      "message": "nPr"
+   },
+   "Calc_ActionLabel_percent": {
+      "description": "Calculator convert number to percentage (text label)",
+      "message": "%"
+   },
+   "Calc_ActionLabel_pi": {
+      "description": "Calculator mathematical constant, pi (text label)",
+      "message": "π"
+   },
+   "Calc_ActionLabel_plus": {
+      "description": "Calculator short form for mathematical function: \"plus\" (text label)",
+      "message": "+"
+   },
+   "Calc_ActionLabel_point": {
+      "description": "Calculator decimal point (text label)",
+      "message": "Point"
+   },
+   "Calc_ActionLabel_pow": {
+      "description": "Calculator short form for mathematical function: \"pow\" (text label)",
+      "message": "yⁿ"
+   },
+   "Calc_ActionLabel_rad": {
+      "description": "Calculator short form for \"radians\" calculator mode (text label)",
+      "message": "Rad"
+   },
+   "Calc_ActionLabel_rand": {
+      "description": "Calculator generate random number (text label)",
+      "message": "Rand"
+   },
+   "Calc_ActionLabel_root": {
+      "description": "Calculator short form for mathematical function: \"root\" (text label)",
+      "message": "ⁿ √Y"
+   },
+   "Calc_ActionLabel_round": {
+      "description": "Calculator short form for mathematical function: \"round\" (text label)",
+      "message": "rnd"
+   },
+   "Calc_ActionLabel_sign": {
+      "description": "Calculator switch positive/negative sign of number (text label)",
+      "message": "+/-"
+   },
+   "Calc_ActionLabel_sin": {
+      "description": "Calculator short form for mathematical function: \"sin\" (text label)",
+      "message": "sin"
+   },
+   "Calc_ActionLabel_sqroot": {
+      "description": "Calculator short form for mathematical function: \"sqroot\" (text label)",
+      "message": "√"
+   },
+   "Calc_ActionLabel_square": {
+      "description": "Calculator short form for mathematical function: \"square\" (text label)",
+      "message": "x²"
+   },
+   "Calc_ActionLabel_store": {
+      "description": "Calculator short form for mathematical function: \"store\" (text label)",
+      "message": "a="
+   },
+   "Calc_ActionLabel_tan": {
+      "description": "Calculator short form for mathematical function: \"tan\" (text label)",
+      "message": "tan"
+   },
+   "Calc_ActionSpeechLabel_ac": {
+      "description": "Calculator all clear (calculator button label) (speech label)",
+      "message": "all clear"
+   },
+   "Calc_ActionSpeechLabel_acos": {
+      "description": "Calculator short form for mathematical function: \"acos\" (speech label)",
+      "message": "arccosine"
+   },
+   "Calc_ActionSpeechLabel_asin": {
+      "description": "Calculator short form for mathematical function: \"asin\" (speech label)",
+      "message": "arcsine"
+   },
+   "Calc_ActionSpeechLabel_atan": {
+      "description": "Calculator short form for mathematical function: \"atan\" (speech label)",
+      "message": "arctangent"
+   },
+   "Calc_ActionSpeechLabel_backspace": {
+      "description": "Calculator delete one input character (speech label)",
+      "message": "backspace"
+   },
+   "Calc_ActionSpeechLabel_c": {
+      "description": "Calculator short form for mathematical function: \"c\" (speech label)",
+      "message": "combination"
+   },
+   "Calc_ActionSpeechLabel_cos": {
+      "description": "Calculator short form for mathematical function: \"cos\" (speech label)",
+      "message": "cosine"
+   },
+   "Calc_ActionSpeechLabel_deg": {
+      "description": "Calculator short form for \"degrees\" calculator mode (speech label)",
+      "message": "switch to degrees"
+   },
+   "Calc_ActionSpeechLabel_div": {
+      "description": "Calculator short form for mathematical function: \"div\" (speech label)",
+      "message": "divide"
+   },
+   "Calc_ActionSpeechLabel_e": {
+      "description": "Calculator mathematical constant, e (speech label)",
+      "message": "e"
+   },
+   "Calc_ActionSpeechLabel_equals": {
+      "description": "Calculator compute operation and display result (speech label)",
+      "message": "equals"
+   },
+   "Calc_ActionSpeechLabel_exp": {
+      "description": "Calculator short form for mathematical function: \"exp\" (speech label)",
+      "message": "e to the power of n"
+   },
+   "Calc_ActionSpeechLabel_fact": {
+      "description": "Calculator short form for mathematical function: \"fact\" (speech label)",
+      "message": "factorial"
+   },
+   "Calc_ActionSpeechLabel_fetch": {
+      "description": "Calculator load memorized number (speech label)",
+      "message": "fetch from memory"
+   },
+   "Calc_ActionSpeechLabel_inv": {
+      "description": "Calculator short form for mathematical function: \"inv\" (speech label)",
+      "message": "inverse"
+   },
+   "Calc_ActionSpeechLabel_ln": {
+      "description": "Calculator short form for mathematical function: \"ln\" (speech label)",
+      "message": "natural logarithm"
+   },
+   "Calc_ActionSpeechLabel_log": {
+      "description": "Calculator short form for mathematical function: \"log\" (speech label)",
+      "message": "log base 10"
+   },
+   "Calc_ActionSpeechLabel_minus": {
+      "description": "Calculator short form for mathematical function: \"minus\" (speech label)",
+      "message": "minus"
+   },
+   "Calc_ActionSpeechLabel_mod": {
+      "description": "Calculator short form for mathematical function: \"mod\" (speech label)",
+      "message": "modulo"
+   },
+   "Calc_ActionSpeechLabel_mult": {
+      "description": "Calculator short form for mathematical function: \"mult\" (speech label)",
+      "message": "multiply"
+   },
+   "Calc_ActionSpeechLabel_p": {
+      "description": "Calculator short form for mathematical function: \"p\" (speech label)",
+      "message": "permutation"
+   },
+   "Calc_ActionSpeechLabel_percent": {
+      "description": "Calculator convert number to percentage (speech label)",
+      "message": "percent"
+   },
+   "Calc_ActionSpeechLabel_pi": {
+      "description": "Calculator mathematical constant, pi (speech label)",
+      "message": "π"
+   },
+   "Calc_ActionSpeechLabel_plus": {
+      "description": "Calculator short form for mathematical function: \"plus\" (speech label)",
+      "message": "plus"
+   },
+   "Calc_ActionSpeechLabel_point": {
+      "description": "Calculator decimal point (speech label)",
+      "message": "point"
+   },
+   "Calc_ActionSpeechLabel_pow": {
+      "description": "Calculator short form for mathematical function: \"pow\" (speech label)",
+      "message": "y to the power of n"
+   },
+   "Calc_ActionSpeechLabel_rad": {
+      "description": "Calculator short form for \"radians\" calculator mode (speech label)",
+      "message": "switch to radians"
+   },
+   "Calc_ActionSpeechLabel_rand": {
+      "description": "Calculator generate random number (speech label)",
+      "message": "random"
+   },
+   "Calc_ActionSpeechLabel_root": {
+      "description": "Calculator short form for mathematical function: \"root\" (speech label)",
+      "message": "the enth root of y"
+   },
+   "Calc_ActionSpeechLabel_round": {
+      "description": "Calculator short form for mathematical function: \"round\" (speech label)",
+      "message": "round"
+   },
+   "Calc_ActionSpeechLabel_sign": {
+      "description": "Calculator switch positive/negative sign of number (speech label)",
+      "message": "negate"
+   },
+   "Calc_ActionSpeechLabel_sin": {
+      "description": "Calculator short form for mathematical function: \"sin\" (speech label)",
+      "message": "sine"
+   },
+   "Calc_ActionSpeechLabel_sqroot": {
+      "description": "Calculator short form for mathematical function: \"sqroot\" (speech label)",
+      "message": "square root"
+   },
+   "Calc_ActionSpeechLabel_square": {
+      "description": "Calculator short form for mathematical function: \"square\" (speech label)",
+      "message": "x squared"
+   },
+   "Calc_ActionSpeechLabel_store": {
+      "description": "Calculator short form for mathematical function: \"store\" (speech label)",
+      "message": "store in memory"
+   },
+   "Calc_ActionSpeechLabel_tan": {
+      "description": "Calculator short form for mathematical function: \"tan\" (speech label)",
+      "message": "tangent"
+   },
+   "Calc_Message_CalcDisplay": {
+      "message": "Calculator Display",
+      "translationHint": "name of the section of the calculator which shows the current number being built, on a physical calculator this is just the screen."
+   },
+   "Calc_Message_CalcHistory": {
+      "message": "Calculator History",
+      "translationHint": "name of the section of the calculator which contains a history of the recent computations"
+   },
+   "Calc_Message_CalcKeypad": {
+      "message": "Keypad",
+      "translationHint": "name of the section of the calculator which contains the interaction buttons, i.e the number pad (1 2 3 4 5...) and the plus, minus, divide buttons etc."
+   },
+   "Calc_Message_CalcName": {
+      "description": "Calculator name of application for performing simple calculations",
+      "message": "ChromiumOS Calculator"
+   },
+   "Calc_Message_ShortName": {
+      "description": "Calculator short name of application for performing simple calculations",
+      "message": "Calculator"
+   },
+   "NumberFormatter_Message_nan": {
+      "description": "NumberFormatter description of a value that isn't a number",
+      "message": "Not a number"
+   },
+   "NumericProperty__Message_errorAboveMaximum": {
+      "description": "NumericProperty_ ",
+      "message": "The value can be at most $max$.",
+      "placeholders": {
+         "max": {
+            "content": "$1"
+         }
+      }
+   },
+   "NumericProperty__Message_errorBelowMinimum": {
+      "description": "NumericProperty_ ",
+      "message": "The value must be at least $min$.",
+      "placeholders": {
+         "min": {
+            "content": "$1"
+         }
+      }
+   },
+   "StringProperty_Message_errorAboveMaxLength": {
+      "description": "StringProperty ",
+      "message": "The text is too long. Maximum: $max$",
+      "placeholders": {
+         "max": {
+            "content": "$1"
+         }
+      }
+   },
+   "StringProperty_Message_errorBelowMinLength": {
+      "description": "StringProperty ",
+      "message": "The text is too short. Minimum: $min$",
+      "placeholders": {
+         "min": {
+            "content": "$1"
+         }
+      }
+   },
+   "StringProperty_Message_errorPatternMismatch": {
+      "description": "StringProperty ",
+      "message": "The text does not match the pattern."
+   }
+}

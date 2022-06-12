@@ -1,0 +1,29 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "bg.js" ]
+      }
+   },
+   "author": {
+      "email": "pronghorn-notifications-publishers@google.com"
+   },
+   "default_locale": "en",
+   "icons": {
+      "128": "icons/ic_calculator_128.png",
+      "256": "icons/ic_calculator_256.png",
+      "32": "icons/ic_calculator_32.png",
+      "48": "icons/ic_calculator_48.png",
+      "64": "icons/ic_calculator_64.png",
+      "96": "icons/ic_calculator_96.png"
+   },
+   "manifest_version": 3,
+   "name": "__MSG_Calc_Message_CalcName__",
+   "short_name": "__MSG_Calc_Message_ShortName__",
+   "version": "2.3.0",
+   "version_name": "2.3.0",
+   "default_locale": "en",
+   "minimum_chrome_version": "88",
+   "description": "ChromiumOS default calculator, fixed by Alex313031!",
+   "offline_enabled": true,
+   "permissions": [ "clipboardRead", "clipboardWrite", "contextMenus" ]
+}
